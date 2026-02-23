@@ -1,6 +1,6 @@
 ############################################################################### #
 # Aim ----
-#| Here is an example for Belgium data
+#| Here is an example for Belgium data on SARS-CoV-2
 # Content:
 #| Load package
 #| Load data
@@ -14,7 +14,7 @@
 
 # Load packages ----
 # specify package location
-.libPaths( "//sciensano.be/fs/1150_EPIVG_EpiInfect/15_WBE/PROJECTS/CodeLibraryR/librairies/R/4.5.2" )
+# .libPaths( "//sciensano.be/fs/1150_EPIVG_EpiInfect/15_WBE/PROJECTS/CodeLibraryR/librairies/R/4.5.2" )
 
 # select packages
 pkgs <- c("dplyr", "tidyr", "zoo", "writexl", "ggplot2")

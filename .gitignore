@@ -1,3 +1,6 @@
+./data/*
+./plot/*
+
 .Rproj.user
 .Rhistory
 .RData
