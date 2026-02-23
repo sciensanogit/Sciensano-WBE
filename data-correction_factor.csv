@@ -1,0 +1,35 @@
+name,target,idprotocol,lab,measure,result,comment
+Correction factor,SARS-CoV-2,3.0-4.0,ebiom,N2gen,0.56,Computed on 20230701 by SH. multiply the old to get the new. reason: transition qpcr to dpcr
+Correction factor,SARS-CoV-2,3.0-4.0,ebiom,Egen,0.43,Computed on 20230701 by SH. multiply the old to get the new
+Correction factor,SARS-CoV-2,3.0-4.0,ebiom,PMMV,NaN,Computed on 20230701 by SH. multiply the old to get the new
+Correction factor,SARS-CoV-2,3.0-4.0,Sciensano,N2gen,0.62,Computed on 20230701 by SH. multiply the old to get the new
+Correction factor,SARS-CoV-2,3.0-4.0,Sciensano,Egen,2.58,Computed on 20230701 by SH. multiply the old to get the new
+Correction factor,SARS-CoV-2,3.0-4.0,Sciensano,PMMV,2.75,Computed on 20230701 by SH. multiply the old to get the new
+Correction factor,SARS-CoV-2,3.0-4.0,UA,N2gen,0.68,Computed on 20230701 by SH. multiply the old to get the new
+Correction factor,SARS-CoV-2,3.0-4.0,UA,Egen,1.8,Computed on 20230701 by SH. multiply the old to get the new
+Correction factor,SARS-CoV-2,3.0-4.0,UA,PMMV,10.54,Computed on 20230701 by SH. multiply the old to get the new
+Correction factor,SARS-CoV-2,2.0-3.0,ebiom,N1gen,5.69,Computed on 20220713 by SH. devide the old to get the newreason: transition nibsc to eurm
+Correction factor,SARS-CoV-2,2.0-3.0,ebiom,N2gen,5.85,Computed on 20220713 by SH. devide the old to get the new
+Correction factor,SARS-CoV-2,2.0-3.0,ebiom,Egen,6.93,Computed on 20220713 by SH. devide the old to get the new
+Correction factor,SARS-CoV-2,2.0-3.0,Sciensano,N1gen,10.87,Computed on 20220713 by SH. devide the old to get the new
+Correction factor,SARS-CoV-2,2.0-3.0,Sciensano,N2gen,8.72,Computed on 20220713 by SH. devide the old to get the new
+Correction factor,SARS-CoV-2,2.0-3.0,Sciensano,Egen,17.08,Computed on 20220713 by SH. devide the old to get the new
+Correction factor,SARS-CoV-2,2.0-3.0,UA,N1gen,1.25,Computed on 20220713 by SH. devide the old to get the new
+Correction factor,SARS-CoV-2,2.0-3.0,UA,N2gen,2.9,Computed on 20220713 by SH. devide the old to get the new
+Correction factor,SARS-CoV-2,2.0-3.0,UA,Egen,9.17,Computed on 20220713 by SH. devide the old to get the new
+Correction factor,SARS-CoV-2,4.1,ebiom,N2gen,0.76,Computed on 20231212 by SH. Multiply the ebiom value by the factor to obtain sciensano onesreason: stop of ebiom analysis
+Correction factor,SARS-CoV-2,4.1,ebiom,Egen,0.66,Computed on 20231212 by SH. Multiply the ebiom value by the factor to obtain sciensano ones
+Correction factor,/,SC_COV_4.1,/,Egen,0.55,Computed on 20250815 by RJ. multiply result of the old 4.0 to get the new 5.0 idprotocol
+Correction factor,/,SC_COV_4.1,/,N2gen,0.55,Computed on 20250815 by RJ. multiply result of the old 4.0 to get the new 5.0 idprotocol
+Correction factor,/,SC_PMMV_2.1,/,PMMV,0.15,Computed on 20250815 by RJ. multiply result of the old 2.0 to get the new 3.0 idprotocol
+Correction factor,/,SC_RSV_1.0,/,RSVA,2.5,Computed on 20250815 by RJ. multiply result of the old 1.0 to get the new 2.0 idprotocol
+Correction factor,/,SC_RSV_1.0,/,RSVB,2.5,Computed on 20250815 by RJ. multiply result of the old 1.0 to get the new 2.0 idprotocol
+Correction factor,/,SC_INF_1.0,/,FluA,2.5,Computed on 20250815 by RJ. multiply result of the old 1.0 to get the new 2.0 idprotocol
+Correction factor,/,SC_INF_1.0,/,FluB,2.5,Computed on 20250815 by RJ. multiply result of the old 1.0 to get the new 2.0 idprotocol
+Correction factor,/,UA_COV_4.0,/,Egen,0.55,Computed on 20250815 by RJ. multiply result of the old 4.0 to get the new 5.0 idprotocol
+Correction factor,/,UA_COV_4.0,/,N2gen,0.55,Computed on 20250815 by RJ. multiply result of the old 4.0 to get the new 5.0 idprotocol
+Correction factor,/,UA_PMMV_2.0,/,PMMV,0.15,Computed on 20250815 by RJ. multiply result of the old 2.0 to get the new 3.0 idprotocol
+Correction factor,/,UA_RSV_1.0,/,RSVA,2.5,Computed on 20250815 by RJ. multiply result of the old 1.0 to get the new 2.0 idprotocol
+Correction factor,/,UA_RSV_1.0,/,RSVB,2.5,Computed on 20250815 by RJ. multiply result of the old 1.0 to get the new 2.0 idprotocol
+Correction factor,/,UA_INF_1.0,/,FluA,2.5,Computed on 20250815 by RJ. multiply result of the old 1.0 to get the new 2.0 idprotocol
+Correction factor,/,UA_INF_1.0,/,FluB,2.5,Computed on 20250815 by RJ. multiply result of the old 1.0 to get the new 2.0 idprotocol

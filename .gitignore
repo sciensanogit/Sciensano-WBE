@@ -7,7 +7,6 @@
 .Ruserdata
 *.Rproj
 *.png
-*.csv
 *.html
 *.docx
 *.log
